@@ -1,6 +1,22 @@
 {
-  "todos": [
-    { "id": "1", "task": "To go to the gym @6am", "isCompleted": true },
-    { "id": "1", "task": "To go to the office @10am", "isCompleted": false }
+  "users": [
+    {
+      "id": "1",
+      "name": "Rajat Sonaniya",
+      "email": "rajatsonaniya6@gmail.com",
+      "password": "Rajat@123",
+      "todos": [
+        {
+          "todoId": "123",
+          "task": "go to office at 10AM",
+          "isCompleted": false
+        },
+        {
+          "todoId": "223",
+          "task": "go to gym at 06AM",
+          "isCompleted": false
+        }
+      ]
+    }
   ]
 }
