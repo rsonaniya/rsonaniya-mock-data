@@ -1,0 +1,6 @@
+{
+  "todos": [
+    { "id": "1", "task": "To go to the gym @6am", "isCompleted": true },
+    { "id": "1", "task": "To go to the office @10am", "isCompleted": false }
+  ]
+}
