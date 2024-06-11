@@ -28,5 +28,14 @@
       "id": "2",
       "title": "To go to gym at06 AM"
     }
+  ],
+  "allusers":[
+    {
+      
+    
+    "id":1
+    "name":"Rajat Sonaniya",
+    "email":"rajatsonaniya6@gmail.com"
+      }
   ]
 }
